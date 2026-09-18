@@ -1,12 +1,12 @@
 
-## Student credentials
 - **Name:** Muppidi Hemakesh Reddy
 - **Student ID:** 2026201013
+- **Github Link:** https://github.com/hemakesh-github/notes-app
 
 
 ## Prerequisites
 
-- Node.js (v18+)
+- Node.js 
 - MongoDB Community Server running locally on `localhost:27017` (or via the
   `MONGO_URI` environment variable)
 
